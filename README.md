@@ -1,14 +1,9 @@
 # My Awesome Project
 
-This project is a [brief description of what it does].
-
-## Features
-- Feature 1
-- Feature 2
-- ...
-
-## Getting Started
-Instructions to run or install the project.
-
-## License
-This project is licensed under the [LICENSE NAME] License.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
